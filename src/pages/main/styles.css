@@ -1,0 +1,65 @@
+/* Manipulação da tabela*/
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background: white;
+  }
+
+/*Manipulação da view principal do app*/
+
+.products-div{
+  padding-top: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 40px;
+}
+
+.app-products {
+  background-color: rgb(194, 248, 255);
+  width: 100%;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+.product-table{
+ 
+  padding-top: 40px;
+  padding-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+* {
+  font-size: 12px;
+}
+
+.btn {
+  margin: 0px 5px 0px 5px; 
+}
+
+.product-operations-holder {
+  width: 100%;
+  justify-content: center;
+  
+}
+
+.product-operations {
+  width: 100%;
+  border: 1px solid black;
+  background-color: white;
+  padding: 20px;
+}
+
+.product-add {
+  align-items: center;
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+h6 {
+  text-align: center;
+}
